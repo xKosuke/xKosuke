@@ -16,7 +16,7 @@
 
 <div align="center">
  <a href="https://github.com/KosukeWeb">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,mysql&theme=light">
+  <img src="https://skillicons.dev/icons?i=js,lua,html,css,nodejs,python,mysql&theme=light">
 </a>
 </div>
 
