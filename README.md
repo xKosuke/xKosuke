@@ -1,6 +1,6 @@
 
 <br />
-<img align="left" alt="KosukeWeb" src="https://github-readme-stats.vercel.app/api?username=KosukeWeb&theme=dracula&show_icons=true&hide_border=true" />
+<img align="left" alt="xKosuke" src="https://github-readme-stats.vercel.app/api?username=xKosuke&theme=dracula&show_icons=true&hide_border=true" />
 
 <br />
 <br />
@@ -19,4 +19,4 @@
 
 <br/>
 
-_This [README.md](https://github.com/KosukeWeb/KosukeWeb "README.md") can be edited by his author at any moment._
+_This [README.md](https://github.com/xKosuke/xKosuke "README.md") can be edited by his author at any moment._
