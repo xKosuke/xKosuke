@@ -1,6 +1,6 @@
 
 <br />
-<img align="left" alt="xKosuke" src="https://github-readme-stats.vercel.app/api?username=xKosuke&theme=dracula&show_icons=true&hide_border=true" />
+
 
 <br />
 <br />
